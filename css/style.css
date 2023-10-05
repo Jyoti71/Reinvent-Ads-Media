@@ -829,3 +829,13 @@ h1, h2, h3, h4, h5,
 .author-box:hover .text-black{
   color: #fff !important;;
 }
+
+/* div#our-team-section {
+  background: url(footer-bg.jpg);
+} */
+
+section#our-team-section {
+  background: url(footer-bg.jpg);
+  padding: 60px;
+  /* height: 500px; */
+}
